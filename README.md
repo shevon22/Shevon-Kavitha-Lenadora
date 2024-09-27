@@ -1,5 +1,5 @@
-# Shevon-Kavitha-Lenadora
-<h1 align="center">Hi 👋, I'm Shevon kavitha</h1>
+# Shevon-Kavintha-Lenadora
+<h1 align="center">Hi 👋, I'm Shevon kavintha</h1>
 <h3 align="center">Welcome to My GitHub Profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shevon22&label=Profile%20views&color=0e75b6&style=flat" alt="shevon22" /> </p>
